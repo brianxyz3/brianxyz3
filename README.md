@@ -14,74 +14,40 @@
   - Advanced Cloud Architecture (AWS & Azure)
   - DevOps best practices
   - Backend system design
-- 🤝 I enjoy mentoring, collaborating on team projects, and continuous learning through certifications
+- 🤝 I enjoy mentoring, collaborating on team projects, and continuous learning
 
 ---
 
 ## 🧰 My Toolbox
 
-## ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 [![Cloud](https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,githubactions,jenkins)](https://skillicons.dev)
 
-## 🧠 Backend
-![Backend](https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,express,nest)
+### 🧠 Backend & Programming
+[![Backend](https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,express,nest)](https://skillicons.dev)
 
-## 🌐 Frontend
-![Frontend](https://skillicons.dev/icons?i=react,nextjs)
+### 🌐 Frontend
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)
 
-## 🗄️ Databases
-![DB](https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase)
-
-### ☁️ Cloud & DevOps
-- AWS
-- Azure
-- Terraform
-- GitHub Actions
-- Jenkins
-- Docker
+### 🗄️ Databases
+[![DB](https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase)](https://skillicons.dev)
 
 ### 📊 Monitoring & Observability
-AWS
-- Azure
-- Terraform
-- GitHub Actions
-- Jenkins
-- Docker
 - CloudWatch
 - Azure Monitor
 - Grafana
 - Prometheus
-- Python (FastAPI, Flask)
-- JavaScript / TypeScript
-- Node.js
-- Express.js
-- Nest.js
-- React
-- Next.js
-- MongoDB
-- Postgres
-- MySQL
-- Redis
-- Firebase
-- Postman
-- Bash
-- Vim
-- Git
 
-
-### 🧠 Backend & Programming
-
-### 🌐 Frontend
 
 ---
 
 ## 🌍 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/brian-chima/
-- 🐦 X (Twitter): https://x.com/BrianXYZ_01
-- 💬 Discord: https://discord.com/users/973897954085720115
 - 📧 Email: brianchima22@gmail.com
 - 📱 WhatsApp: https://wa.me/2348078689083
+- 🐦 X (Twitter): https://x.com/BrianXYZ_01
+- 💬 Discord: https://discord.com/users/973897954085720115
 
 ---
 
