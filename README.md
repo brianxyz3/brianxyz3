@@ -15,8 +15,6 @@
   - DevOps best practices
   - Backend system design
 - 🤝 I enjoy mentoring, collaborating on team projects, and continuous learning through certifications
-- 📫 Reach me at: **brianchima22@gmail.com**
-- 🐦 X (Twitter): [@brianxyz_01](https://x.com/BrianXYZ_01)
 
 ---
 
@@ -31,6 +29,8 @@
 - Docker
 
 ### 📊 Monitoring & Observability
+- CloudWatch
+- Azure Monitor
 - Grafana
 - Prometheus
 
@@ -39,6 +39,7 @@
 - JavaScript / TypeScript
 - Node.js
 - Express.js
+- Nest.js
 
 ### 🌐 Frontend
 - React
@@ -46,6 +47,7 @@
 
 ### 🗄️ Databases & Caching
 - MongoDB
+- Postgres
 - MySQL
 - Redis
 - Firebase
