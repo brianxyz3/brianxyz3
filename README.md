@@ -21,7 +21,7 @@
 ## 🧰 My Toolbox
 
 ## ☁️ Cloud & DevOps
-![Cloud](https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,githubactions,jenkins)
+[![Cloud](https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,githubactions,jenkins)](https://skillicons.dev)
 
 ## 🧠 Backend
 ![Backend](https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,express,nest)
@@ -41,34 +41,37 @@
 - Docker
 
 ### 📊 Monitoring & Observability
+AWS
+- Azure
+- Terraform
+- GitHub Actions
+- Jenkins
+- Docker
 - CloudWatch
 - Azure Monitor
 - Grafana
 - Prometheus
-
-### 🧠 Backend & Programming
 - Python (FastAPI, Flask)
 - JavaScript / TypeScript
 - Node.js
 - Express.js
 - Nest.js
-
-### 🌐 Frontend
 - React
 - Next.js
-
-### 🗄️ Databases & Caching
 - MongoDB
 - Postgres
 - MySQL
 - Redis
 - Firebase
-
-### 🛠️ Tools
 - Postman
 - Bash
 - Vim
 - Git
+
+
+### 🧠 Backend & Programming
+
+### 🌐 Frontend
 
 ---
 
