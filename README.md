@@ -20,6 +20,18 @@
 
 ## 🧰 My Toolbox
 
+## ☁️ Cloud & DevOps
+![Cloud](https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,githubactions,jenkins)
+
+## 🧠 Backend
+![Backend](https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,express,nest)
+
+## 🌐 Frontend
+![Frontend](https://skillicons.dev/icons?i=react,nextjs)
+
+## 🗄️ Databases
+![DB](https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase)
+
 ### ☁️ Cloud & DevOps
 - AWS
 - Azure
